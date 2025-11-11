@@ -250,10 +250,10 @@ print(f"Độ tin cậy: {result['confidence']:.2%}")
 - [ ] Sentiment trend visualization
 📸 Kết quả hiển thị
 <div align="center">
-  <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
+  <p><strong>Ảnh tổng quan:</strong></p>
   <img src="Readme/tongquan.jpg" alt="Ảnh tổng quan" width="100%">
   
-  <p><strong>Ảnh cam tươi trên web:</strong></p>
+  <p><strong>Ảnh dự đoán:</strong></p>
   <img src="Readme/dudoan.jpg" alt="Ảnh dự đoán" width="100%">
 </div>
 
