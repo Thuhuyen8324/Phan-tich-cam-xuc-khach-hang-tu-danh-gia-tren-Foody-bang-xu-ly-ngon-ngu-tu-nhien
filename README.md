@@ -2,7 +2,9 @@
 <h1 align="center">
 🍽️ Foody Sentiment Analyzer 
 </h1>
-
+<div align="center">
+  <img src="REDMI/logoDaiNam.png" alt="DaiNam University Logo" width="250">
+</div>
 ## 📋 Giới thiệu
 
 Dự án phân tích cảm xúc khách hàng từ các đánh giá trên nền tảng Foody sử dụng kỹ thuật Xử lý Ngôn ngữ Tự nhiên (NLP). Hệ thống có khả năng tự động phân loại các đánh giá thành các nhóm cảm xúc (tích cực, tiêu cực, trung lập), giúp nhà hàng và doanh nghiệp hiểu rõ hơn về trải nghiệm khách hàng.
