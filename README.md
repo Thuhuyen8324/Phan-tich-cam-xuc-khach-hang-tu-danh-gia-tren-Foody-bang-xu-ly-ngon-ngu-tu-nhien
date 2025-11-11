@@ -263,7 +263,7 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 ## 👥 Tác giả
 
-- **Tên của bạn** - *Initial work* - [YourGithub](https://github.com/Thuhuyen8324)
+- **Initial work** - (https://github.com/Thuhuyen8324)
 
 ## 🙏 Lời cảm ơn
 
