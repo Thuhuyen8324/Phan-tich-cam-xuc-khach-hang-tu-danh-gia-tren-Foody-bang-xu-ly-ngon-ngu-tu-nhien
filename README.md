@@ -250,10 +250,10 @@ print(f"Độ tin cậy: {result['confidence']:.2%}")
 📸 Kết quả hiển thị
 <div align="center">
   <p><strong>Ảnh cam tươi trên web:</strong></p>
-  <img src="REDMI/anhcamtuoi.jpg" alt="Ảnh cam tươi" width="100%">
+  <img src="README/dudoan.jpg" alt="Ảnh cam tươi" width="100%">
   
   <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
-  <img src="REDMI/anhcamhong.jpg" alt="Ảnh cam hỏng" width="100%">
+  <img src="README/tongquan.jpg" alt="Ảnh cam hỏng" width="100%">
 </div>
 ## 🤝 Đóng góp
 
