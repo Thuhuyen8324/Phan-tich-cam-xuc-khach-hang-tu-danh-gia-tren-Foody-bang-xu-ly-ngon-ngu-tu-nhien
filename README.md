@@ -274,8 +274,8 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 ## 📧 Liên hệ
 
 - Email: nguyenthuhuyen8324@gmail.com
-- Facebook: [Your Page](https://facebook.com/thuhuyen8324)
-- LinkedIn: [Your Profile](www.linkedin.com/in/huyền)
+- Facebook: (https://facebook.com/thuhuyen8324)
+- LinkedIn: (www.linkedin.com/in/huyền)
 
 ---
 
