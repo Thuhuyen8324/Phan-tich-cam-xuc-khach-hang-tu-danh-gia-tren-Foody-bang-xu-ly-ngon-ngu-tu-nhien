@@ -5,6 +5,7 @@
 <div align="center">
   <img src="Readme/logoDaiNam.png" alt="DaiNam University Logo" width="250">
 </div>
+
 ## 📋 Giới thiệu
 
 Dự án phân tích cảm xúc khách hàng từ các đánh giá trên nền tảng Foody sử dụng kỹ thuật Xử lý Ngôn ngữ Tự nhiên (NLP). Hệ thống có khả năng tự động phân loại các đánh giá thành các nhóm cảm xúc (tích cực, tiêu cực, trung lập), giúp nhà hàng và doanh nghiệp hiểu rõ hơn về trải nghiệm khách hàng.
@@ -78,7 +79,7 @@ foody-sentiment-analyzer/
 ### Bước 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/foody-sentiment-analyzer.git
+git clone https://github.com/Thuhuyen8324/Phan-tich-cam-xuc-khach-hang-tu-danh-gia-tren-Foody-bang-xu-ly-ngon-ngu-tu-nhien.git
 cd foody-sentiment-analyzer
 ```
 
