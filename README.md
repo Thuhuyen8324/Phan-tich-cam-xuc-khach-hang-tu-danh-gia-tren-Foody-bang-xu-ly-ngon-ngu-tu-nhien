@@ -8,7 +8,7 @@
 
 ## 📋 Giới thiệu
 
-Dự án phân tích cảm xúc khách hàng từ các đánh giá trên nền tảng Foody sử dụng kỹ thuật Xử lý Ngôn ngữ Tự nhiên (NLP). Hệ thống có khả năng tự động phân loại các đánh giá thành các nhóm cảm xúc (tích cực, tiêu cực, trung lập), giúp nhà hàng và doanh nghiệp hiểu rõ hơn về trải nghiệm khách hàng.
+Dự án Foody Sentiment Analyzer là một hệ thống phân tích cảm xúc khách hàng từ các đánh giá trên nền tảng Foody, sử dụng công nghệ Xử lý Ngôn ngữ Tự nhiên (NLP) tiên tiến. Hệ thống được xây dựng dựa trên mô hình PhoBERT - một biến thể BERT được pre-train đặc biệt cho tiếng Việt bởi VinAI Research.
 
 ## ✨ Tính năng chính
 
