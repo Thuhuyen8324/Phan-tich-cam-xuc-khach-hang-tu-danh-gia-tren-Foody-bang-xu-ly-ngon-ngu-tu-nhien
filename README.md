@@ -1,4 +1,7 @@
-# 🍽️ Foody Sentiment Analyzer
+
+<h1 align="center">
+🍽️ Foody Sentiment Analyzer 
+</h1>
 
 ## 📋 Giới thiệu
 
