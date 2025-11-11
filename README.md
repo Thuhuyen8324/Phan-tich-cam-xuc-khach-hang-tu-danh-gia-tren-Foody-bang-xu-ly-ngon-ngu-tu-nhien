@@ -249,21 +249,12 @@ print(f"Độ tin cậy: {result['confidence']:.2%}")
 - [ ] Sentiment trend visualization
 📸 Kết quả hiển thị
 <div align="center">
+  <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
+  <img src="Readme/tongquan.jpg" alt="Ảnh tổng quan" width="100%">
+  
   <p><strong>Ảnh cam tươi trên web:</strong></p>
   <img src="Readme/dudoan.jpg" alt="Ảnh dự đoán" width="100%">
-  
-  <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
-  <img src="README/tongquan.jpg" alt="Ảnh cam hỏng" width="100%">
 </div>
-## 🤝 Đóng góp
-
-Mọi đóng góp đều được chào đón! Vui lòng:
-
-1. Fork dự án
-2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
 
 ## 📝 License
 
@@ -281,7 +272,7 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 ## 📧 Liên hệ
 
-- Email: your.email@example.com
+- Email: nguyenthuhuyen8324@gmail.com
 - Facebook: [Your Page](https://facebook.com/yourpage)
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
